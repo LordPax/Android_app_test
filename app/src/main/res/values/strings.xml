@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="test_msg">je suis un test de merde</string>
+    <string name="pts">points : 0</string>
+    <string name="pseudo_str">pseudo</string>
+    <string name="btn_str">valider</string>
+    <string name="btn2">valider2</string>
+</resources>
